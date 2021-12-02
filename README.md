@@ -1,6 +1,6 @@
 # Amazon Product Customer-Review-Classification
 
-The aim of the project is to build classification model  using LSTM post text preprocessing uasing NLP.
+The aim of the project is to build classification model  using LSTM after text preprocessing using NLP.
 
 ## Table of Content
   * [Business_Context](#Business_Context)
@@ -10,7 +10,7 @@ The aim of the project is to build classification model  using LSTM post text pr
   * [Credit](#Credit)
   
 ## Business_Context
-Amazon Alexa available in multiple variants. Customer review data has been collected for each variant.In ordee to know about product performance, one of  important aspects is to know about cutsomer reviews regarding the projects. Exactly, we are trying to do using the LSTM model aftex text preprocessing using NLP
+Amazon Alexa available in multiple variants. Customer review data has been collected for each variant.In ordee to know about product performance, one of  important aspects is to know about cutsomer reviews regarding the projects. Exactly, we are trying to do using the LSTM model after text preprocessing using NLP
 
 
 
@@ -18,7 +18,7 @@ Amazon Alexa available in multiple variants. Customer review data has been colle
  ## Dataset
  The dataset consists of the following attributes:
  Variables - 
- * Prodcut Name
+ * Productt Name
  * Review
  * Rating
 ### Dataset shape - Rows - 1409 , Colums = 3
@@ -33,7 +33,7 @@ Amazon Alexa available in multiple variants. Customer review data has been colle
 ## Model_Evaluation
 * LSTM model accuracy is 81%.
 * LSTM model F1 socre , Recall ,Precision are 0.87,0.93,0.83 for postive reviews.  
-* For our business use case , Fasle postive is more importanc since for a better product performance, customer  negative reviews are more inmportant.So preceison is comparatively more important.
+* For our business use case , Fasle postive is more importanc since for a better product performance, customer  negative reviews are more inmportant.So precision is comparatively more important.
 
 
 
