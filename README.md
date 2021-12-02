@@ -37,6 +37,10 @@ Amazon Alexa available in multiple variants. Customer review data has been colle
 
 
 
+ <img src="/model%20evaluation.png" width="300">   
+
+
+
 
 ## Business_Recommendation
 * Firm should focus on 3 important features 'Percent difference CTC', 'Duration to accept the offer'& 'Age'
