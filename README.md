@@ -43,7 +43,7 @@ Amazon Alexa available in multiple variants. Customer review data has been colle
 
 
 ## Business_Recommendation
-* Need to analyze further - percentages of postive review and negative reviews for each variant.and Based on the analysis, need to recommend modification in prodcut variant.
+* Need to analyze further - percentages of postive review and negative reviews for each variant.and Based on the analysis, need to recommend modification in product variant.
 
 ## Credit
  This project has been done as a course project in Deep Learning .
