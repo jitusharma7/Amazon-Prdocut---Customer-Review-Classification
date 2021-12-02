@@ -43,9 +43,8 @@ Amazon Alexa available in multiple variants. Customer review data has been colle
 
 
 ## Business_Recommendation
-* Firm should focus on 3 important features 'Percent difference CTC', 'Duration to accept the offer'& 'Age'
-* Firm should introduce new offering/schemes based on these 3 features combination so that attrition rate can reduce.
+* Need to analyze further - percentages of postive review and negative reviews for each variant.and Based on the analysis, need to recommend modification in prodcut variant.
 
 ## Credit
-[dare2Compete](https://https://dare2compete.com/) - This project has been done on this competitive platform.
+ This project has been done as a course project in Deep Learning .
 
