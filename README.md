@@ -1,4 +1,4 @@
-# Amazon-Product---Customer-Review-Classification
+# Amazon Product Customer-Review-Classification
 
 The aim of the project is to build classification model  using LSTM post text preprocessing uasing NLP.
 
@@ -24,6 +24,7 @@ Amazon Alexa available in multiple variants. Customer review data has been colle
 ### Dataset shape - Rows - 1409 , Colums = 3
 
 
+ <img src="/Data.png" width="300">   
 
  
         
