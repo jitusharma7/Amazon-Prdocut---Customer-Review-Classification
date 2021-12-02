@@ -31,12 +31,10 @@ Amazon Alexa available in multiple variants. Customer review data has been colle
 
 
 ## Model_Evaluation
-* XG Boost performs better than other models
-* Hyperparameters tuning is done by RandomizedSearchCV for xgboost
-* It has a higher accuracy of83.24%
-* True Negative is almost double than false negative
-* Rest of the models have very poor performance in terms of predicting true negative values
-* True negative values are crucial because it is important to know who will not join the organization
+* LSTM model accuracy is 81%.
+* LSTM model F1 socre , Recall ,Precision are 0.87,0.93,0.83 for postive reviews.  
+* For our business use case , Fasle postive is more importanc since for a better product performance, customer  negative reviews are more inmportant.So preceison is comparatively more important.
+
 
 
 
