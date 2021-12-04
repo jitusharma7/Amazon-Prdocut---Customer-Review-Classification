@@ -7,6 +7,7 @@ The aim of the project is to build classification model  using LSTM after text p
   * [Dataset](#Dataset)
   * [Model_Evaluation](#Model_Evaluation)
   * [Business_Recommendation](#Business_Recommendation)
+  * [Documentation](#Documentation)
   * [Credit](#Credit)
   
 ## Business_Context
@@ -44,6 +45,11 @@ Amazon Alexa available in multiple variants. Customer review data has been colle
 
 ## Business_Recommendation
 * Need to analyze further - percentages of postive review and negative reviews for each variant.and Based on the analysis, need to recommend modification in product variant.
+
+  
+## Documentation
+Please click the below link for documentation
+https://drive.google.com/drive/folders/1aX-exE3cD6aOfX1VMlIX9jB4CAswXfsF?usp=sharing
 
 ## Credit
  This project has been done as a course project in Deep Learning .
